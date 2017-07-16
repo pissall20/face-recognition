@@ -1,7 +1,7 @@
 # face-recognition
 Face Detection using OpenCV and Python
 
-Theory : http://www.makematics.com/research/viola-jones/
+How it works : https://www.youtube.com/watch?v=_QZLbR67fUU
 
 1) dataset creator.py to create a dataset of images to train the model on
 2) trainer.py to train your model over the created dataset
